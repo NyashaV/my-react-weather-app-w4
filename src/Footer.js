@@ -14,7 +14,13 @@ export default function Footer() {
         weather.com
       </a>
       <div className="githublink">
-        <a href="#">Open source code</a>
+        <a
+          href="https://github.com/NyashaV/my-react-weather-app-w4"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Open source code
+        </a>
         <span> by Nyasha Tavatya </span>
       </div>
     </div>
